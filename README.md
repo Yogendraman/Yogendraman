@@ -1,7 +1,7 @@
-## 👋 Hi, I’m @Yogendraman
-- 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning embedded
-- 💞️ I’m looking to collaborate on all
+##✌️ Hi, I’m @Yogendraman
+- 👀 I’m interested in exploring and learning creative things
+- 🌱 I’m currently learning Embedded C
+- 🤠 I’m on LinkedIn yvkathole
 - 📫  reach me on twitter me @itsyogendraman
 
 <!---
